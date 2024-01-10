@@ -53,8 +53,8 @@
                 <div class="position-relative">
 
                     <picture class="">
-                        <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/maps.webp" loading="lazy">
-                        <source type="image/png" srcset="<?= getBaseUrl() ?>/assets/img/maps.png" loading="lazy"> <img class="mt-5 map-home d-none d-md-block" src="<?= getBaseUrl() ?>/assets/img/maps.png" alt="Encontre seu apê com nossa busca por mapa" loading="lazy">
+                        <source type="image/webp" srcset="<?= getBaseUrl() ?>/img/maps.webp" loading="lazy">
+                        <source type="image/png" srcset="<?= getBaseUrl() ?>/img/maps.png" loading="lazy"> <img class="mt-5 map-home d-none d-md-block" src="<?= getBaseUrl() ?>/img/maps.png" alt="Encontre seu apê com nossa busca por mapa" loading="lazy">
                     </picture>
 
                     <div class="position-priscila mr-n4 mt-n5">

@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-12 col-md-3 p-0">
                 <picture class="">
-                    <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/priscila-com-chaves.webp" loading="lazy">
-                    <source type="image/png" srcset="<?= getBaseUrl() ?>/assets/img/priscila-com-chaves.png" loading="lazy"> <img class="start-simulator-priscila" src="<?= getBaseUrl() ?>/assets/img/priscila-com-chaves.png" alt="" loading="lazy">
+                    <source type="image/webp" srcset="<?= getBaseUrl() ?>/img/priscila-com-chaves.webp" loading="lazy">
+                    <source type="image/png" srcset="<?= getBaseUrl() ?>/img/priscila-com-chaves.png" loading="lazy"> <img class="start-simulator-priscila" src="<?= getBaseUrl() ?>/img/priscila-com-chaves.png" alt="" loading="lazy">
                 </picture>
             </div>
             <div class="col-12 col-md-9">
@@ -56,14 +56,14 @@
                     <div class="card-body d-flex flex-row align-items-center p-2">
                         <div class="col-auto">
                             <picture class="">
-                                <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/mcmv-para-cva.webp" loading="lazy">
-                                <source type="image/png" srcset="<?= getBaseUrl() ?>/assets/img/mcmv-para-cva.png" loading="lazy"> <img class="img-casa-verde-e-amarela" src="<?= getBaseUrl() ?>/assets/img/mcmv-para-cva.png" alt="Casa verde e amarela" loading="lazy">
+                                <source type="image/webp" srcset="<?= getBaseUrl() ?>/img/mcmv-para-cva.webp" loading="lazy">
+                                <source type="image/png" srcset="<?= getBaseUrl() ?>/img/mcmv-para-cva.png" loading="lazy"> <img class="img-casa-verde-e-amarela" src="<?= getBaseUrl() ?>/img/mcmv-para-cva.png" alt="Casa verde e amarela" loading="lazy">
                             </picture>
                         </div>
                         <div class="col-auto">
                             <picture class="">
-                                <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/selo-caixa.webp" loading="lazy">
-                                <source type="image/jpeg" srcset="<?= getBaseUrl() ?>/assets/img/selo-caixa.jpg" loading="lazy"> <img class="img-caixa" src="<?= getBaseUrl() ?>/assets/img/selo-caixa.jpg" alt="" loading="lazy">
+                                <source type="image/webp" srcset="<?= getBaseUrl() ?>/img/selo-caixa.webp" loading="lazy">
+                                <source type="image/jpeg" srcset="<?= getBaseUrl() ?>/img/selo-caixa.jpg" loading="lazy"> <img class="img-caixa" src="<?= getBaseUrl() ?>/img/selo-caixa.jpg" alt="" loading="lazy">
                             </picture>
                         </div>
                         <div class="col p-0">

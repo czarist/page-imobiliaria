@@ -33,7 +33,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-auto pr-0">
-                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/assets/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
+                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
                     </div>
                     <div class="col pl-0">
                         <button class="navbar-toggler d-flex align-items-center float-right pr-0" type="button" data-toggle="menu" data-target="#menu">
@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="row row-cols-1 py-2">
                     <div class="col border-bottom pb-2">
-                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/assets/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
+                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
                     </div>
                     <div class="col">
                         <ul class="navbar-nav">
@@ -193,7 +193,7 @@
         <div class="position-fixed w-100 bg-white">
             <nav class="navbar navbar-expand-xl navbar-light border-bottom mobile-navigation">
                 <div class="container">
-                    <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/assets/img/planoeplano.svg" width="165" height="37" alt="Plano&amp;Plano" loading="lazy"></a>
+                    <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/img/planoeplano.svg" width="165" height="37" alt="Plano&amp;Plano" loading="lazy"></a>
                     <button class="navbar-toggler d-flex d-xl-none align-items-center pr-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="font-weight-bold font-size-sm mr-2">Menu</span>
                         <svg width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">

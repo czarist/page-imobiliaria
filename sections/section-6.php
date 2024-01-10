@@ -90,8 +90,8 @@
             </div>
             <div class="col col-md-4">
                 <picture class="">
-                    <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/priscila-duvidas.webp" loading="lazy">
-                    <source type="image/png" srcset="<?= getBaseUrl() ?>/assets/img/priscila-duvidas.png" loading="lazy"> <img class="img-fluid" src="<?= getBaseUrl() ?>/assets/img/priscila-duvidas.png" alt="FAQ" loading="lazy">
+                    <source type="image/webp" srcset="<?= getBaseUrl() ?>/img/priscila-duvidas.webp" loading="lazy">
+                    <source type="image/png" srcset="<?= getBaseUrl() ?>/img/priscila-duvidas.png" loading="lazy"> <img class="img-fluid" src="<?= getBaseUrl() ?>/img/priscila-duvidas.png" alt="FAQ" loading="lazy">
                 </picture>
             </div>
         </div>
