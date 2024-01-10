@@ -9,7 +9,7 @@
                         <div class="font-weight-semibold follow-us letter-spacing-n1">Siga a Plano&amp;Plano nas redes sociais.</div>
                     </div>
                     <div class="col-xl-6 col-12 mt-4">
-                        <img src="/assets/img/planoeplano.svg" width="293" height="66" alt="Plano&amp;Plano" loading="lazy">
+                        <img src="<?= getBaseUrl() ?>/assets/img/planoeplano.svg" width="293" height="66" alt="Plano&amp;Plano" loading="lazy">
                     </div>
                 </div>
 
@@ -114,20 +114,20 @@
                     <div class="row d-flex flex-wrap justify-content-center col-auto p-0 mb-0 mb-md-4 mb-lg-0  stamps">
                         <div class="col-auto mb-3 mb-md-0 px-md-1">
                             <picture class="">
-                                <source type="image/webp" srcset="/assets/img/caixa.webp" loading="lazy">
-                                <source type="image/png" srcset="/assets/img/caixa.png" loading="lazy"> <img class="img-caixa" src="/assets/img/caixa.png" width="96" alt="Caixa Econômica Federal" loading="lazy">
+                                <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/caixa.webp" loading="lazy">
+                                <source type="image/png" srcset="<?= getBaseUrl() ?>/assets/img/caixa.png" loading="lazy"> <img class="img-caixa" src="<?= getBaseUrl() ?>/assets/img/caixa.png" width="96" alt="Caixa Econômica Federal" loading="lazy">
                             </picture>
                         </div>
                         <div class="col-auto mb-3 mb-md-0 px-md-1">
                             <picture class="">
-                                <source type="image/webp" srcset="/assets/img/abrainc.webp" loading="lazy">
-                                <source type="image/png" srcset="/assets/img/abrainc.png" loading="lazy"> <img class="" src="/assets/img/abrainc.png" width="96" alt="ABRAINC" loading="lazy">
+                                <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/abrainc.webp" loading="lazy">
+                                <source type="image/png" srcset="<?= getBaseUrl() ?>/assets/img/abrainc.png" loading="lazy"> <img class="" src="<?= getBaseUrl() ?>/assets/img/abrainc.png" width="96" alt="ABRAINC" loading="lazy">
                             </picture>
                         </div>
                         <div class="col-auto mb-3 mb-md-0 px-md-1">
                             <picture class="">
-                                <source type="image/webp" srcset="/assets/img/siteamigo.webp" loading="lazy">
-                                <source type="image/png" srcset="/assets/img/siteamigo.png" loading="lazy"> <img class="" src="/assets/img/siteamigo.png" width="96" alt="Site Amigo do Surdo" loading="lazy">
+                                <source type="image/webp" srcset="<?= getBaseUrl() ?>/assets/img/siteamigo.webp" loading="lazy">
+                                <source type="image/png" srcset="<?= getBaseUrl() ?>/assets/img/siteamigo.png" loading="lazy"> <img class="" src="<?= getBaseUrl() ?>/assets/img/siteamigo.png" width="96" alt="Site Amigo do Surdo" loading="lazy">
                             </picture>
                         </div>
                     </div>

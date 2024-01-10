@@ -14,7 +14,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-    <script src="assets/js/scripts.js"></script>
+    <script src="<?= getBaseUrl() ?>/assets/js/scripts.js"></script>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
@@ -33,7 +33,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-auto pr-0">
-                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="/assets/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
+                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/assets/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
                     </div>
                     <div class="col pl-0">
                         <button class="navbar-toggler d-flex align-items-center float-right pr-0" type="button" data-toggle="menu" data-target="#menu">
@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="row row-cols-1 py-2">
                     <div class="col border-bottom pb-2">
-                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="/assets/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
+                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/assets/img/planoeplano.svg" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
                     </div>
                     <div class="col">
                         <ul class="navbar-nav">
@@ -70,7 +70,7 @@
                             <li class="nav-item">
                                 <a class="nav-link text-body font-size-md d-flex align-items-center" href="#" title="Faça uma Simulação" role="button">
                                     <span class="icon-circle bg-salmao-light">
-                                        
+
                                         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 1024 1024">
                                             <title></title>
                                             <g id="icomoon-ignore">
@@ -193,7 +193,7 @@
         <div class="position-fixed w-100 bg-white">
             <nav class="navbar navbar-expand-xl navbar-light border-bottom mobile-navigation">
                 <div class="container">
-                    <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="/assets/img/planoeplano.svg" width="165" height="37" alt="Plano&amp;Plano" loading="lazy"></a>
+                    <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/assets/img/planoeplano.svg" width="165" height="37" alt="Plano&amp;Plano" loading="lazy"></a>
                     <button class="navbar-toggler d-flex d-xl-none align-items-center pr-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="font-weight-bold font-size-sm mr-2">Menu</span>
                         <svg width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
