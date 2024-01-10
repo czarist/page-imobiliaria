@@ -37,7 +37,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">História da Gabriela e Thiago</p>
                                                             </div>
@@ -72,7 +72,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">História da Giselli e do Jardson</p>
                                                             </div>
@@ -109,7 +109,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">História da Sarah e do Renan</p>
                                                             </div>
@@ -145,7 +145,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Ezequiel, Giovanna, Gabriella e Marcos</p>
                                                             </div>
@@ -181,7 +181,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">História da Thays e Rafael</p>
                                                             </div>
@@ -218,7 +218,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">História da Milena e Maura</p>
                                                             </div>
@@ -255,7 +255,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">História da Milena</p>
                                                             </div>
@@ -302,7 +302,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Viz by Plano&amp;Plano</p>
                                                             </div>
@@ -338,7 +338,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Oriz by Plano&amp;Plano</p>
                                                             </div>
@@ -374,7 +374,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">MAPP Barra Funda</p>
                                                             </div>
@@ -410,7 +410,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">MAPP Rio Branco</p>
                                                             </div>
@@ -447,7 +447,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Portal Vila Prudente</p>
                                                             </div>
@@ -496,7 +496,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Plano&amp;Sacomã I</p>
                                                             </div>
@@ -533,7 +533,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Plano&amp;Mais Cambuci</p>
                                                             </div>
@@ -570,7 +570,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Plano&amp;Vila Guilherme</p>
                                                             </div>
@@ -607,7 +607,7 @@
                                                     </picture>
 
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
-                                                        <div class="d-flex align-items-center flex-row-reverse">
+                                                        <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
                                                                 <p class="card-title font-size-lg font-weight-medium">Portal Barra Funda - Vila Rudge</p>
                                                             </div>
