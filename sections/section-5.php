@@ -31,7 +31,7 @@
                         </div>
                     </div>
                     <div class="col">
-                        <p class="mb-0">São mais de <a href="https://www.planoeplano.com.br/imoveis" title="Todos os Apês Plano&amp;Plano"> <b class="text-primary">56 apês</b></a> que você pode encontrar.</p>
+                        <p class="mb-0">São mais de <a href="#" title="Todos os Apês Plano&amp;Plano"> <b class="text-primary">56 apês</b></a> que você pode encontrar.</p>
                     </div>
                 </div>
                 <div class="d-flex mb-3 align-items-center">
@@ -43,10 +43,10 @@
                         </div>
                     </div>
                     <div class="col">
-                        <p class="mb-0">E mais de <a href="/lojas" title="Todas as lojas Plano&amp;Plano"><b class="text-primary">24 lojas</b></a> espalhadas por toda São Paulo.</p>
+                        <p class="mb-0">E mais de <a href="#" title="Todas as lojas Plano&amp;Plano"><b class="text-primary">24 lojas</b></a> espalhadas por toda São Paulo.</p>
                     </div>
                 </div>
-                <a href="/imoveis" title="Encontre um Apê" class="d-none d-md-block btn btn-block btn-secondary text-uppercase font-size-md font-weight-semibold mt-5 py-4">Quero encontrar o meu apê</a>
+                <a href="#" title="Encontre um Apê" class="d-none d-md-block btn btn-block btn-secondary text-uppercase font-size-md font-weight-semibold mt-5 py-4">Quero encontrar o meu apê</a>
             </div>
 
             <div class="col col-md-12 col-lg-8">
@@ -60,8 +60,8 @@
                     <div class="position-priscila mr-n4 mt-n5">
 
                     </div>
-                    <a href="/imoveis" title="Encontre um Apê" class="d-block d-md-none btn btn-block py-4 btn-outline-secondary text-uppercase font-size-md font-weight-semibold mt-4 active">Quero encontrar o meu apê</a>
-                    <a href="/lojas" title="Encontrar uma loja" class="d-block d-md-none btn btn-block py-4 btn-outline-secondary text-uppercase font-size-md font-weight-semibold mt-4">Quero encontrar uma loja</a>
+                    <a href="#" title="Encontre um Apê" class="d-block d-md-none btn btn-block py-4 btn-outline-secondary text-uppercase font-size-md font-weight-semibold mt-5 active">Quero encontrar o meu apê</a>
+                    <a href="#" title="Encontrar uma loja" class="d-block d-md-none btn btn-block py-4 btn-outline-secondary text-uppercase font-size-md font-weight-semibold mt-4">Quero encontrar uma loja</a>
                 </div>
 
             </div>

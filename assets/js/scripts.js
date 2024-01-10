@@ -1,8 +1,6 @@
 $(document).ready(function () {
 
-    /** Carousel  */
 
-    $(".owl-carousel").owlCarousel();
 
     let owl = $('#carousel-enterprises').owlCarousel({
         loop: true,
@@ -13,10 +11,10 @@ $(document).ready(function () {
                 items: 1
             },
             600: {
-                items: 3
+                items: 2
             },
             1000: {
-                items: 5
+                items: 3
             }
         }
     });
@@ -45,7 +43,61 @@ $(document).ready(function () {
         }
     }
 
-    /** Fim Carousel  */
+    /** Owl Carousel  */
+
+    let $owlCarouselVideo = $(".owl-carousel-video");
+
+    $owlCarouselVideo.on("initialize.owl.carousel", function () {
+        $(this).find(".col").removeClass("d-none");
+        $(this).find(".owl-loading").remove();
+    });
+
+    $owlCarouselVideo.owlCarousel({
+        loop: false,
+        nav: true,
+        margin: 10,
+        responsiveClass: true,
+        lazyLoad: true,
+        dots: false,
+        navText: ['<i class="icon icon-arrow-prev text-primary"></i>', '<i class="icon icon-arrow-next text-primary"></i>'],
+        responsive: {
+            0: {
+                items: 1,
+                center: true,
+                loop: false,
+                stagePadding: 40
+            },
+            600: {
+                items: 2
+            },
+            1000: {
+                items: 3,
+                margin: 30,
+                stagePadding: 0
+            }
+        }
+    });
+
+    /** Fim Owl Carousel  */
+
+    function updateClasses() {
+        if ($(window).width() < 991) {
+            $('#contact-cols .col-auto a').addClass('btn-mobile-contact');
+            $('#contact-cols .col-auto button').addClass('btn-mobile-contact w-100');
+            $('#contact-cols .col-auto').addClass('col-4 m-0 p-0').removeClass('col-auto m-auto p-auto');
+        } else {
+            $('#contact-cols .col-4').addClass('col-auto m-auto p-auto').removeClass('col-4 m-0 p-0');
+            $('#contact-cols .col-auto a').removeClass('btn-mobile-contact');
+            $('#contact-cols .col-auto button').removeClass('btn-mobile-contact w-100');
+        }
+    }
+
+
+    updateClasses();
+
+    $(window).resize(function () {
+        updateClasses();
+    });
 
     $('*[data-toggle="menu"]').on("click", function (e) {
         e.preventDefault();

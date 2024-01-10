@@ -10719,8 +10719,8 @@ header > div {
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
-  src: local("Poppins"), url("../fonts/Poppins-SemiBold.ttf") format("woff2"),
-    url("../fonts/Poppins-SemiBold.ttf") format("woff");
+  src: local("Poppins"), url("../fonts/Poppins-SemiBold.ttf") format("ttf"),
+    url("../fonts/Poppins-SemiBold.ttf") format("ttf");
 }
 @font-face {
   font-display: swap;
@@ -12060,6 +12060,14 @@ label.btn-region {
 }
 .btn-search-marketed {
   background-color: #fff4e9;
+}
+.btn-mobile-contact {
+  min-height: 100%;
+  height: 111px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0 !important;
 }
 .btn-search-marketed.active,
 .btn-search-marketed:hover {

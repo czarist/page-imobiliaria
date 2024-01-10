@@ -8,7 +8,7 @@
 
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <a href="https://www.planoeplano.com.br/imoveis/sp/sao-paulo/apartamentos/morumbi/planomais-morumbi" title="Plano&amp;Mais Morumbi" class="webdoor pos-1 " target="_blank">
+                <a href="#" title="Plano&amp;Mais Morumbi" class="webdoor pos-1 " target="_blank">
                     <picture class="">
                         <source type="image/webp" srcset="https://cdn.planoeplano.com.br/2023/11/17/09/42/b6f7e045e77123ed7a659931c15200c28ffa54bd.webp" loading="lazy">
                         <source type="image/png" srcset="https://cdn.planoeplano.com.br/2023/11/17/09/42/b6f7e045e77123ed7a659931c15200c28ffa54bd.png" loading="lazy">
@@ -18,7 +18,7 @@
             </div>
 
             <div class="carousel-item">
-                <a href="https://www.planoeplano.com.br/imoveis/sp/sao-paulo/apartamentos/panamby/sphera-panamby" title="Sphera Panamby" class="webdoor pos-2 " target="_blank">
+                <a href="#" title="Sphera Panamby" class="webdoor pos-2 " target="_blank">
                     <picture class="">
                         <source type="image/webp" srcset="https://cdn.planoeplano.com.br/2023/12/15/10/40/a137777e3a287a5cc66597ec67fb2da80be652fd.webp" loading="lazy">
                         <source type="image/png" srcset="https://cdn.planoeplano.com.br/2023/12/15/10/40/a137777e3a287a5cc66597ec67fb2da80be652fd.png" loading="lazy">
@@ -28,9 +28,7 @@
             </div>
 
             <div class="carousel-item">
-                <a href="https://planoeplanoapegratis.com.br/?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=cpm23" title="Quando você vê, tá de apê!" class="webdoor pos-3 " target="_blank">
-
-
+                <a href="#" title="Quando você vê, tá de apê!" class="webdoor pos-3 " target="_blank">
                     <picture class="">
                         <source type="image/webp" srcset="https://cdn.planoeplano.com.br/2023/10/02/14/16/d0a14bba0c5bc9e5c7eb0ee1094e06340bb358a9.webp" loading="lazy">
                         <source type="image/png" srcset="https://cdn.planoeplano.com.br/2023/10/02/14/16/d0a14bba0c5bc9e5c7eb0ee1094e06340bb358a9.png" loading="lazy">
@@ -38,9 +36,7 @@
                     </picture>
                 </a>
             </div>
-
         </div>
-
 
         <a class="carousel-control-prev" href="#home-webdoors" role="button" data-slide="prev">
             <span class="icon"><svg width="18" height="18" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
