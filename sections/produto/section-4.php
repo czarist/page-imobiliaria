@@ -356,23 +356,14 @@
                                         </figure>
                                     </a>
                                 </div>
-
-
                             </div>
                         </div>
-
                     </div>
                 </div>
-
-
             </div>
-
-
-
             <div class="row tour-virtual mb-5 pb-4" id="tours-do-projeto-park">
                 <div class="col-12">
                     <p class="text-uppercase text-primary font-weight-medium line-height-1 mb-2">
-
                         <span class="mr-2">
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 1024 1024">
                                 <title></title>
@@ -382,20 +373,15 @@
                             </svg>
                         </span> Tour Virtual
                     </p>
-
                     <p></p>
                     <h2 class="font-size-lg font-weight-semibold mb-lg-n5">Conheça mais cada cantinho <br>do seu novo apê:</h2>
                 </div>
                 <div class="col-lg-3 d-none d-lg-flex align-self-end">
-
-
-
                     <picture class="">
-                        <source type="image/webp" srcset="/img/priscila-tour-virtual.webp" loading="lazy">
-                        <source type="image/png" srcset="/img/priscila-tour-virtual.png" loading="lazy">
-                        <img class="ml-n5 mb-n4" src="/img/priscila-tour-virtual.png" alt="Tour Virtual" loading="lazy">
+                        <source type="image/webp" srcset="<?= getBaseUrl() ?>/img/priscila-tour-virtual.webp" loading="lazy">
+                        <source type="image/png" srcset="<?= getBaseUrl() ?>/img/priscila-tour-virtual.png" loading="lazy">
+                        <img class="ml-n5 mb-n4" src="<?= getBaseUrl() ?>/img/priscila-tour-virtual.png" alt="Tour Virtual" loading="lazy">
                     </picture>
-
                 </div>
                 <div class="col-lg-3 align-self-end">
                     <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
@@ -1688,9 +1674,6 @@
 
                             <div class="row no-gutters">
                                 <div class="col-2 col-md-12 col-lg-2 ">
-
-                                    <img src="/img/enterprise-marker.svg" alt="">
-
                                 </div>
                                 <div class="col-10">
                                     <p class="font-size-md">
@@ -1705,9 +1688,6 @@
 
                             <div class="row no-gutters">
                                 <div class="col-2 col-md-12 col-lg-2 ">
-
-                                    <img src="/img/marker-logo.png" alt="">
-
                                 </div>
                                 <div class="col-10">
                                     <p class="font-size-md">
@@ -2390,8 +2370,8 @@
                 </div>
                 <div class="col-lg-3 d-none d-lg-flex align-self-end">
                     <picture class="">
-                        <source type="image/webp" srcset="/img/priscila-tour-virtual.webp" loading="lazy">
-                        <source type="image/png" srcset="/img/priscila-tour-virtual.png" loading="lazy"> <img class="ml-n5 mb-n4" src="/img/priscila-tour-virtual.png" alt="Tour Virtual" loading="lazy">
+                        <source type="image/webp" srcset="<?= getBaseUrl() ?>/img/priscila-tour-virtual.webp" loading="lazy">
+                        <source type="image/png" srcset="<?= getBaseUrl() ?>/img/priscila-tour-virtual.png" loading="lazy"> <img class="ml-n5 mb-n4" src="<?= getBaseUrl() ?>/img/priscila-tour-virtual.png" alt="Tour Virtual" loading="lazy">
                     </picture>
                 </div>
                 <div class="col-lg-3 align-self-end">
@@ -3257,11 +3237,10 @@
                                 </span> Localização
                             </p>
                             <h2 class="font-size-lg font-weight-semibold mb-5">More no Panamby , uma região com tudo que você precisa!</h2>
+
+
                             <div class="row no-gutters">
                                 <div class="col-2 col-md-12 col-lg-2 ">
-
-                                    <img src="/img/enterprise-marker.svg" alt="">
-
                                 </div>
                                 <div class="col-10">
                                     <p class="font-size-md">
@@ -3272,7 +3251,6 @@
                             </div>
                             <div class="row no-gutters">
                                 <div class="col-2 col-md-12 col-lg-2 ">
-                                    <img src="/img/marker-logo.png" alt="">
                                 </div>
                                 <div class="col-10">
                                     <p class="font-size-md">
@@ -3285,13 +3263,17 @@
 
                         <div class="col-md-8">
                             <div id="map-enterprise" class="map-enterprise club" data-enterprise-slug="sphera-panamby" data-subenterprise-slug="club">
-                                <img src="<?= getBaseUrl() ?>/img/maps.png" alt="" class="img-fluid" id="mapImage" data-toggle="tooltip" data-placement="top" title="Clique para visualizar no mapa">
+                                <img src="<?= getBaseUrl() ?>/img/maps.webp" alt="" class="img-fluid" id="mapImage" data-toggle="tooltip" data-placement="top" title="Clique para visualizar no mapa">
                             </div>
                         </div>
 
                     </div>
                 </div>
             </div>
+
+
+
+
 
             <div class="row mobility py-5" id="mobilidade-club">
                 <div class="container">
