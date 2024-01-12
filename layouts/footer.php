@@ -6,7 +6,7 @@
                 <p class="text-uppercase carousel-enterprises--title text-primary-color mb-2">Redes sociais</p>
                 <div class="row justify-content-between">
                     <div class="col-xl-8 col-12 mt-4">
-                        <img src="<?= getBaseUrl() ?>/img/planoeplano.svg" width="293" height="66" alt="Plano&amp;Plano" loading="lazy">
+                        <img src="<?= getBaseUrl() ?>/img/logo.png" width="293" height="66" alt="Plano&amp;Plano" loading="lazy">
                     </div>
                     <div class="col-xl-4 col-12 ml-0 pl-xl-0 col-12 mt-4">
                         <div class="font-weight-semibold follow-us letter-spacing-n1">Siga-nos nas redes sociais.</div>

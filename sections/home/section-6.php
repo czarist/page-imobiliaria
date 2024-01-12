@@ -8,7 +8,7 @@
                             <title></title>
                             <g id="icomoon-ignore">
                             </g>
-                            <path fill="#FF1617" d="M1024 0c0 565.539-458.461 1024-1024 1024v-1024h1024z"></path>
+                            <path fill="#FEBD0F" d="M1024 0c0 565.539-458.461 1024-1024 1024v-1024h1024z"></path>
                         </svg>
                     </span> <span>Tire suas dúvidas</span>
                 </p>
@@ -23,7 +23,7 @@
                                     <span class="col"> O que é o programa "Minha Casa Minha Vida"? </span>
                                     <span class="col-auto float-right mt-1 icon-up-arrow" id="faq-arrow">
                                         <svg width="10" height="10" viewBox="0 0 10 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C9.31658 -0.097631 8.68342 -0.097631 8.29289 0.292893L5 3.58579L1.70711 0.292894C1.31658 -0.0976303 0.683417 -0.0976303 0.292893 0.292894C-0.0976314 0.683418 -0.0976313 1.31658 0.292894 1.70711L5 6.41421L9.70711 1.70711C10.0976 1.31658 10.0976 0.683417 9.70711 0.292893Z" fill="#FF1617"></path>
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C9.31658 -0.097631 8.68342 -0.097631 8.29289 0.292893L5 3.58579L1.70711 0.292894C1.31658 -0.0976303 0.683417 -0.0976303 0.292893 0.292894C-0.0976314 0.683418 -0.0976313 1.31658 0.292894 1.70711L5 6.41421L9.70711 1.70711C10.0976 1.31658 10.0976 0.683417 9.70711 0.292893Z" fill="#FEBD0F"></path>
                                         </svg>
                                     </span>
 
@@ -46,7 +46,7 @@
                                     <span class="col"> Quem tem direito a participar do Minha Casa Minha Vida? </span>
                                     <span class="col-auto float-right mt-1 icon-up-arrow" id="faq-arrow">
                                         <svg width="10" height="10" viewBox="0 0 10 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C9.31658 -0.097631 8.68342 -0.097631 8.29289 0.292893L5 3.58579L1.70711 0.292894C1.31658 -0.0976303 0.683417 -0.0976303 0.292893 0.292894C-0.0976314 0.683418 -0.0976313 1.31658 0.292894 1.70711L5 6.41421L9.70711 1.70711C10.0976 1.31658 10.0976 0.683417 9.70711 0.292893Z" fill="#FF1617"></path>
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C9.31658 -0.097631 8.68342 -0.097631 8.29289 0.292893L5 3.58579L1.70711 0.292894C1.31658 -0.0976303 0.683417 -0.0976303 0.292893 0.292894C-0.0976314 0.683418 -0.0976313 1.31658 0.292894 1.70711L5 6.41421L9.70711 1.70711C10.0976 1.31658 10.0976 0.683417 9.70711 0.292893Z" fill="#FEBD0F"></path>
                                         </svg>
                                     </span>
 
@@ -69,7 +69,7 @@
                                     <span class="col"> O que é renda familiar? </span>
                                     <span class="col-auto float-right mt-1 icon-up-arrow" id="faq-arrow">
                                         <svg width="10" height="10" viewBox="0 0 10 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C9.31658 -0.097631 8.68342 -0.097631 8.29289 0.292893L5 3.58579L1.70711 0.292894C1.31658 -0.0976303 0.683417 -0.0976303 0.292893 0.292894C-0.0976314 0.683418 -0.0976313 1.31658 0.292894 1.70711L5 6.41421L9.70711 1.70711C10.0976 1.31658 10.0976 0.683417 9.70711 0.292893Z" fill="#FF1617"></path>
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C9.31658 -0.097631 8.68342 -0.097631 8.29289 0.292893L5 3.58579L1.70711 0.292894C1.31658 -0.0976303 0.683417 -0.0976303 0.292893 0.292894C-0.0976314 0.683418 -0.0976313 1.31658 0.292894 1.70711L5 6.41421L9.70711 1.70711C10.0976 1.31658 10.0976 0.683417 9.70711 0.292893Z" fill="#FEBD0F"></path>
                                         </svg>
                                     </span>
 
