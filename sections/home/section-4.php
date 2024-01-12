@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row align-items-end mb-3">
             <div class="col-12 col-md-12 col-lg-6  ">
-                <p class="text-uppercase carousel-enterprises--title text-primary-color mb-3">Conheça o Plano&amp;PlanoFlix:</p>
+                <p class="text-uppercase carousel-enterprises--title text-primary-color mb-3">Conheça o StartFlix:</p>
                 <h2 class="font-weight-semibold letter-spacing-n1">Assista os depoimentos reais de quem realizou o Sonho da Casa Própria!</h2>
             </div>
             <div class="col-12 col-md-12 col-lg-6">
@@ -291,7 +291,7 @@
                         <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s;">
                             <div class="owl-item">
                                 <div class="col p-0">
-                                    <a data-fancybox="" href="//www.youtube.com/watch?v=2yBHxKiWE44" title="Viz by Plano&amp;Plano">
+                                    <a data-fancybox="" href="//www.youtube.com/watch?v=2yBHxKiWE44" title="Viz by Start">
                                         <div class="col-auto mb-5 p-0">
                                             <div class="planoeplano-flix-videos mr-4">
                                                 <div class="card border-0 text-white card-video">
@@ -304,7 +304,7 @@
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
                                                         <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
-                                                                <p class="card-title font-size-lg font-weight-medium">Viz by Plano&amp;Plano</p>
+                                                                <p class="card-title font-size-lg font-weight-medium">Viz by Start</p>
                                                             </div>
                                                             <div class="col-auto">
                                                                 <span class="icon-circle icon-circle-lg bg-secondary p-2">
@@ -327,7 +327,7 @@
                             </div>
                             <div class="owl-item">
                                 <div class="col p-0">
-                                    <a data-fancybox="" href="//www.youtube.com/watch?v=X-wFN74T2jA" title="Oriz by Plano&amp;Plano">
+                                    <a data-fancybox="" href="//www.youtube.com/watch?v=X-wFN74T2jA" title="Oriz by Start">
                                         <div class="col-auto mb-5 p-0">
                                             <div class="planoeplano-flix-videos mr-4">
                                                 <div class="card border-0 text-white card-video">
@@ -340,7 +340,7 @@
                                                     <div class="card-img-overlay d-flex align-items-end card-linear-bg rounded-lg">
                                                         <div class="d-flex flex-column text-center flex-md-row-reverse align-items-center">
                                                             <div>
-                                                                <p class="card-title font-size-lg font-weight-medium">Oriz by Plano&amp;Plano</p>
+                                                                <p class="card-title font-size-lg font-weight-medium">Oriz by Start</p>
                                                             </div>
                                                             <div class="col-auto">
                                                                 <span class="icon-circle icon-circle-lg bg-secondary p-2">

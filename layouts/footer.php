@@ -6,7 +6,7 @@
                 <p class="text-uppercase carousel-enterprises--title text-primary-color mb-2">Redes sociais</p>
                 <div class="row justify-content-between">
                     <div class="col-xl-8 col-12 mt-4">
-                        <img src="<?= getBaseUrl() ?>/img/logo.png" width="293" height="66" alt="Plano&amp;Plano" loading="lazy">
+                        <img src="<?= getBaseUrl() ?>/img/logo.png" width="293" height="66" alt="Start" loading="lazy">
                     </div>
                     <div class="col-xl-4 col-12 ml-0 pl-xl-0 col-12 mt-4">
                         <div class="font-weight-semibold follow-us letter-spacing-n1">Siga-nos nas redes sociais.</div>
@@ -59,14 +59,14 @@
 
                         <div class="row">
                             <div class="col d-flex align-items-center mt-2 justify-content-center">
-                                <a href="#" title="Blog da Plano&amp;Plano" target="_blank" class="socials socials-icons blog text-white">
+                                <a href="#" title="Blog da Start" target="_blank" class="socials socials-icons blog text-white">
                                     <svg width="32" height="32" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="blogger-b" class="svg-inline--fa fa-blogger-b fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
                                         <path fill="#FFFFFF" d="M446.6 222.7c-1.8-8-6.8-15.4-12.5-18.5-1.8-1-13-2.2-25-2.7-20.1-.9-22.3-1.3-28.7-5-10.1-5.9-12.8-12.3-12.9-29.5-.1-33-13.8-63.7-40.9-91.3-19.3-19.7-40.9-33-65.5-40.5-5.9-1.8-19.1-2.4-63.3-2.9-69.4-.8-84.8.6-108.4 10C45.9 59.5 14.7 96.1 3.3 142.9 1.2 151.7.7 165.8.2 246.8c-.6 101.5.1 116.4 6.4 136.5 15.6 49.6 59.9 86.3 104.4 94.3 14.8 2.7 197.3 3.3 216 .8 32.5-4.4 58-17.5 81.9-41.9 17.3-17.7 28.1-36.8 35.2-62.1 4.9-17.6 4.5-142.8 2.5-151.7zm-322.1-63.6c7.8-7.9 10-8.2 58.8-8.2 43.9 0 45.4.1 51.8 3.4 9.3 4.7 13.4 11.3 13.4 21.9 0 9.5-3.8 16.2-12.3 21.6-4.6 2.9-7.3 3.1-50.3 3.3-26.5.2-47.7-.4-50.8-1.2-16.6-4.7-22.8-28.5-10.6-40.8zm191.8 199.8l-14.9 2.4-77.5.9c-68.1.8-87.3-.4-90.9-2-7.1-3.1-13.8-11.7-14.9-19.4-1.1-7.3 2.6-17.3 8.2-22.4 7.1-6.4 10.2-6.6 97.3-6.7 89.6-.1 89.1-.1 97.6 7.8 12.1 11.3 9.5 31.2-4.9 39.4z"></path>
                                     </svg>
                                 </a>
                             </div>
                             <div class="col d-flex align-items-center mt-2 justify-content-center">
-                                <a href="#" title="Playlist da Plano&amp;Plano pra você" target="_blank" class="socials socials-icons spotify text-white">
+                                <a href="#" title="Playlist da Start pra você" target="_blank" class="socials socials-icons spotify text-white">
 
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 1024 1024">
                                         <title></title>
@@ -142,7 +142,7 @@
                     <li class="nav-link p-0">
                         <p class="nav-link font-weight-semibold p-0 font-size-sm">Quem Somos</p>
                         <ul class="nav mt-2 flex-column ml-3">
-                            <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Quem é a Plano&amp;Plano">Quem é a Plano&amp;Plano</a></li>
+                            <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Quem somos">Quem somos</a></li>
                             <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Corpo Diretivo">Corpo Diretivo</a></li>
                             <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Engenharia e Resultados">Engenharia e Resultados</a></li>
                             <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Nossas Conquistas">Nossas Conquistas</a></li>
@@ -154,7 +154,7 @@
                 </ul>
             </div>
             <div class="col-12 col-md-auto">
-                <a href="#" title="Lojas Plano&amp;Plano" class="font-weight-semibold font-size-sm">Lojas Plano&amp;Plano</a>
+                <a href="#" title="Lojas Start" class="font-weight-semibold font-size-sm">Lojas Start</a>
                 <ul class="nav mt-4">
                     <li class="nav-link p-0">
                         <p class="nav-link font-weight-semibold p-0 font-size-sm">Corretores &amp; Imobiliárias</p>
@@ -166,14 +166,14 @@
                 </ul>
             </div>
             <div class="col-12 col-md-auto">
-                <a href="#" title="Plano&amp;PlanoFlix" class="nav-link font-weight-semibold p-0 font-size-sm">Plano&amp;PlanoFlix</a>
+                <a href="#" title="StartFlix" class="nav-link font-weight-semibold p-0 font-size-sm">StartFlix</a>
                 <ul class="nav mt-4 flex-column">
                     <li class="nav-link p-0">
                         <p class="nav-link font-weight-semibold p-0 font-size-sm">Nossos contatos</p>
                         <ul class="nav mt-2 flex-column ml-3" id="contato">
                             <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Quero Oferecer um terreno">Quero oferecer um terreno</a></li>
                             <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Quero ser um fornecedor">Quero ser um fornecedor</a></li>
-                            <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Quero trabalhar na Plano&amp;Plano">Quero trabalhar na Plano&amp;Plano</a></li>
+                            <li class="nav-item"><a class="nav-link text-body px-0 py-1 font-size-sm" href="#" title="Quero trabalhar na Start">Quero trabalhar na Start</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -183,20 +183,20 @@
                 <a href="#" target="_blank" title="Investidores" class="nav-link font-weight-semibold p-0 font-size-sm">Investidores</a>
                 <ul class="nav mt-4">
                     <li class="nav-link p-0">
-                        <a href="#" title="Plano&amp;PlanoFlix" class="nav-link font-weight-semibold p-0 font-size-sm">FAQ</a>
+                        <a href="#" title="StartFlix" class="nav-link font-weight-semibold p-0 font-size-sm">FAQ</a>
                     </li>
                 </ul>
             </div>
 
             <div class="col-12 col-md-auto">
-                <a href="#" title="Plano&amp;PlanoFlix" class="nav-link font-weight-semibold p-0 font-size-sm">Guia de bairros</a>
+                <a href="#" title="StartFlix" class="nav-link font-weight-semibold p-0 font-size-sm">Guia de bairros</a>
             </div>
         </div>
 
         <div class="row py-3 justify-content-between copyright">
             <div class="col-auto">
                 <p class="font-size-sm">
-                    <?= date('Y') ?> - Todos os direitos reservados - <a href="#" title="Política de Privacidade" class="text-body border-bottom border-dark">Política de Privacidade</a> -
+                    <?= date('Y') ?> © Todos os direitos reservados - <a href="#" title="Política de Privacidade" class="text-body border-bottom border-dark">Política de Privacidade</a> -
                     <a href="#" title="Plano &amp; Plano Reclame Aqui" class="text-body border-bottom border-dark">Reclame Aqui</a>.
                     &nbsp;&nbsp;&nbsp;<span>CNPJ: 00.000.000/0000-00&nbsp;&nbsp;&nbsp;CRECI – 0: 000000-0</span>
                 </p>

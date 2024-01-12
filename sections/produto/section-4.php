@@ -34,7 +34,6 @@
                         <div class="col-3 col-md-6  p-0">
                             <div class="d-flex flex-wrap owl-project-gallery owl-carousel owl-theme owl-carousel-mobile the-project-gallery">
 
-
                                 <div class="item col-md-6 mb-4 gallery-item">
                                     <a href="https://cdn.planoeplano.com.br/2023/10/10/14/48/74f4f2298fbbdc2269b9a5191f1c10b11cc3afc1-thumbnail.jpg" data-fancybox="galeria-do-projeto-park" data-caption="Churrasqueira - Perspectiva ilustrada - Park">
 
@@ -90,8 +89,6 @@
                                 <div class="item col-md-6 mb-4 gallery-item d-none">
                                     <a href="https://cdn.planoeplano.com.br/2023/10/10/14/48/ad30037c2b74b94d76a52044ab6148a7ef21b28c-thumbnail.jpg" data-fancybox="galeria-do-projeto-park" data-caption="Redário luau - Perspectiva ilustrada - Park">
                                         <figure class="position-relative mb-0">
-
-
                                             <picture class="">
                                                 <source type="image/webp" srcset="https://cdn.planoeplano.com.br/2023/10/10/14/48/ad30037c2b74b94d76a52044ab6148a7ef21b28c-thumbnail.webp" loading="lazy">
                                                 <source type="image/jpeg" srcset="https://cdn.planoeplano.com.br/2023/10/10/14/48/ad30037c2b74b94d76a52044ab6148a7ef21b28c-thumbnail.jpg" loading="lazy"> <img class="img-fluid rounded" src="https://cdn.planoeplano.com.br/2023/10/10/14/48/ad30037c2b74b94d76a52044ab6148a7ef21b28c-thumbnail.jpg" alt="Redário luau - Perspectiva ilustrada - Park" loading="lazy">
@@ -102,35 +99,25 @@
                                     </a>
                                 </div>
 
-
                                 <div class="item col-md-6 mb-4 gallery-item d-none">
                                     <a href="https://cdn.planoeplano.com.br/2023/10/10/14/49/ad3bab003ea6ccf8f4c83af5d47576a121b82dd9-thumbnail.jpg" data-fancybox="galeria-do-projeto-park" data-caption="Bar - Perspectiva ilustrada - Park">
-
                                         <figure class="position-relative mb-0">
-
-
                                             <picture class="">
                                                 <source type="image/webp" srcset="https://cdn.planoeplano.com.br/2023/10/10/14/49/ad3bab003ea6ccf8f4c83af5d47576a121b82dd9-thumbnail.webp" loading="lazy">
                                                 <source type="image/jpeg" srcset="https://cdn.planoeplano.com.br/2023/10/10/14/49/ad3bab003ea6ccf8f4c83af5d47576a121b82dd9-thumbnail.jpg" loading="lazy"> <img class="img-fluid rounded" src="https://cdn.planoeplano.com.br/2023/10/10/14/49/ad3bab003ea6ccf8f4c83af5d47576a121b82dd9-thumbnail.jpg" alt="Bar - Perspectiva ilustrada - Park" loading="lazy">
                                             </picture>
-
                                             <figcaption class="figure-caption gallery-caption letter-spacing-n1">Bar - Perspectiva ilustrada</figcaption>
                                         </figure>
                                     </a>
                                 </div>
 
-
                                 <div class="item col-md-6 mb-4 gallery-item d-none">
                                     <a href="https://cdn.planoeplano.com.br/2023/10/10/14/49/fc76337d08d7266c3dffee84374bb348116a0a48-thumbnail.jpg" data-fancybox="galeria-do-projeto-park" data-caption="Fitness - Perspectiva ilustrada - Park">
-
                                         <figure class="position-relative mb-0">
-
-
                                             <picture class="">
                                                 <source type="image/webp" srcset="https://cdn.planoeplano.com.br/2023/10/10/14/49/fc76337d08d7266c3dffee84374bb348116a0a48-thumbnail.webp" loading="lazy">
                                                 <source type="image/jpeg" srcset="https://cdn.planoeplano.com.br/2023/10/10/14/49/fc76337d08d7266c3dffee84374bb348116a0a48-thumbnail.jpg" loading="lazy"> <img class="img-fluid rounded" src="https://cdn.planoeplano.com.br/2023/10/10/14/49/fc76337d08d7266c3dffee84374bb348116a0a48-thumbnail.jpg" alt="Fitness - Perspectiva ilustrada - Park" loading="lazy">
                                             </picture>
-
                                             <figcaption class="figure-caption gallery-caption letter-spacing-n1">Fitness - Perspectiva ilustrada</figcaption>
                                         </figure>
                                     </a>
@@ -385,14 +372,9 @@
                 </div>
                 <div class="col-lg-3 align-self-end">
                     <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-
-
                         <a class="btn btn-secondary btn-virtual text-uppercase font-size-md font-weight-bold mt-3 py-3 active" href="https://cdn.planoeplano.com.br/tour-virtual/SpheraPanamby_tour" target="_blank" title="Sphera Panamby">Sphera Panamby</a>
-
-
                     </div>
                 </div>
-
 
                 <div class="col-lg-6 mt-md-4 d-none d-md-flex">
                     <div class="tab-content">

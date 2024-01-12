@@ -33,7 +33,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-auto pr-0">
-                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/img/logo.png" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
+                        <a class="navbar-brand" href="/" title="Start"><img src="<?= getBaseUrl() ?>/img/logo.png" width="183" height="41" alt="Start" loading="lazy"></a>
                     </div>
                     <div class="col pl-0">
                         <button class="navbar-toggler d-flex align-items-center float-right pr-0" type="button" data-toggle="menu" data-target="#menu">
@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="row row-cols-1 py-2">
                     <div class="col border-bottom pb-2">
-                        <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/img/logo.png" width="183" height="41" alt="Plano&amp;Plano" loading="lazy"></a>
+                        <a class="navbar-brand" href="/" title="Start"><img src="<?= getBaseUrl() ?>/img/logo.png" width="183" height="41" alt="Start" loading="lazy"></a>
                     </div>
                     <div class="col">
                         <ul class="navbar-nav">
@@ -107,7 +107,7 @@
                                 </a>
                                 <div id="quem-somos" class="d-flex flex-column subnav-sidebar bg-white position-fixed h-100 p-4">
                                     <p class="text-primary font-weight-semibold text-uppercase">Quem Somos</p>
-                                    <a class="text-body text-uppercase font-size-md py-3" href="#" title="Quem é a Plano&amp;Plano">Quem é a Plano&amp;Plano</a>
+                                    <a class="text-body text-uppercase font-size-md py-3" href="#" title="Quem somos">Quem somos</a>
                                     <a class="text-body text-uppercase font-size-md py-3" href="#" title="Corpo Diretivo">Corpo Diretivo</a>
                                     <a class="text-body text-uppercase font-size-md py-3" href="#" title="Engenharia e Resultados">Engenharia e Resultados</a>
                                     <a class="text-body text-uppercase font-size-md py-3" href="#" title="Nossas Conquistas">Nossas Conquistas</a>
@@ -167,7 +167,7 @@
                                     <p class="text-primary font-weight-semibold text-uppercase">Contato</p>
                                     <a class="text-body text-uppercase font-size-md py-3" href="#" title="Quero Oferecer um terreno">Quero Oferecer um terreno</a>
                                     <a class="text-body text-uppercase font-size-md py-3" href="#" title="Quero ser um fornecedor">Quero ser um fornecedor</a>
-                                    <a class="text-body text-uppercase font-size-md py-3" href="#" title="Quero trabalhar na Plano&amp;Plano">Trabalhe Conosco</a>
+                                    <a class="text-body text-uppercase font-size-md py-3" href="#" title="Quero trabalhar na Start">Trabalhe Conosco</a>
                                     <button type="button" data-target="#contato" class="btn btn-link text-primary text-uppercase text-left back-menu px-0">
                                         <span class="mr-3">
                                             <svg width="10" height="10" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -193,7 +193,7 @@
         <div class="position-fixed w-100 bg-white">
             <nav class="navbar navbar-expand-xl navbar-light border-bottom mobile-navigation">
                 <div class="container">
-                    <a class="navbar-brand" href="/" title="Plano&amp;Plano"><img src="<?= getBaseUrl() ?>/img/logo.png" width="165" height="37" alt="Plano&amp;Plano" loading="lazy"></a>
+                    <a class="navbar-brand" href="/" title="Start"><img src="<?= getBaseUrl() ?>/img/logo.png" width="165" height="37" alt="Start" loading="lazy"></a>
                     <button class="navbar-toggler d-flex d-xl-none align-items-center pr-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="font-weight-bold font-size-sm mr-2">Menu</span>
                         <svg width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -222,7 +222,7 @@
                                     Quem Somos
                                 </a>
                                 <div class="dropdown-menu dropdown-menu-header" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item dropdown-item-header" href="#" title="Quem é a Plano&amp;Plano">Quem é a Plano&amp;Plano</a>
+                                    <a class="dropdown-item dropdown-item-header" href="#" title="Quem somos">Quem somos</a>
                                     <a class="dropdown-item dropdown-item-header" href="#" title="Corpo Diretivo">Corpo Diretivo</a>
                                     <a class="dropdown-item dropdown-item-header" href="#" title="Engenharia e Resultados">Engenharia e Resultados</a>
                                     <a class="dropdown-item dropdown-item-header" href="#" title="Nossas Conquistas">Nossas Conquistas</a>
@@ -234,7 +234,7 @@
                                 </div>
                             </li>
                             <li class="py-1"><svg width="3" height="3" viewBox="0 0 4 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <rect width="3" height="3" fill="#FF7276"></rect>
+                                    <rect width="3" height="3" fill="#FEBD0F"></rect>
                                 </svg>
                             </li>
                             <li class="nav-item dropdown">
@@ -247,7 +247,7 @@
                                 </div>
                             </li>
                             <li class="py-1"><svg width="3" height="3" viewBox="0 0 4 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <rect width="3" height="3" fill="#FF7276"></rect>
+                                    <rect width="3" height="3" fill="#FEBD0F"></rect>
                                 </svg>
                             </li>
                             <li class="nav-item dropdown">

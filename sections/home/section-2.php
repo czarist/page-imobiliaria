@@ -256,7 +256,7 @@
 
 
 
-                                    <a href="#/sp/sao-paulo/apartamentos/saude/mista-by-planoplano" title="Mistá by Plano&amp;Plano" class="stretched-link">
+                                    <a href="#/sp/sao-paulo/apartamentos/saude/mista-by-planoplano" title="Mistá by Start" class="stretched-link">
 
 
 
@@ -283,7 +283,7 @@
                                         </p>
 
 
-                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Mistá by Plano&amp;Plano</p>
+                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Mistá by Start</p>
                                         <p class="card-enterprise-infos mt-0 mb-2">
                                             <span class="badge font-weight-medium dorms mb-1">1 dorm.</span> <span class="badge font-weight-medium status mb-1 release south">Lançamento</span>
                                         </p>
@@ -311,7 +311,7 @@
 
 
 
-                                    <a href="#/sp/sao-paulo/apartamentos/santo-amaro/viz-by-planoplano" title="Viz by Plano&amp;Plano" class="stretched-link">
+                                    <a href="#/sp/sao-paulo/apartamentos/santo-amaro/viz-by-planoplano" title="Viz by Start" class="stretched-link">
 
 
 
@@ -338,7 +338,7 @@
                                         </p>
 
 
-                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Viz by Plano&amp;Plano</p>
+                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Viz by Start</p>
                                         <p class="card-enterprise-infos mt-0 mb-2">
                                             <span class="badge font-weight-medium dorms mb-1">1 e 2 dorms.</span> <span class="badge font-weight-medium status mb-1 release south">Lançamento</span>
                                         </p>
@@ -380,7 +380,7 @@
 
 
 
-                                    <a href="#/sp/sao-paulo/apartamentos/campo-belo/oriz-by-planoplano" title="Oriz by Plano&amp;Plano" class="stretched-link">
+                                    <a href="#/sp/sao-paulo/apartamentos/campo-belo/oriz-by-planoplano" title="Oriz by Start" class="stretched-link">
 
 
 
@@ -407,7 +407,7 @@
                                         </p>
 
 
-                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Oriz by Plano&amp;Plano</p>
+                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Oriz by Start</p>
                                         <p class="card-enterprise-infos mt-0 mb-2">
                                             <span class="badge font-weight-medium dorms mb-1">1 e 2 dorms.</span> <span class="badge font-weight-medium status mb-1 release south">Lançamento</span>
                                         </p>
@@ -768,7 +768,7 @@
 
 
 
-                                    <a href="#/sp/sao-paulo/apartamentos/chacara-santo-antonio/laguna" title="Laguna by Plano&amp;Plano" class="stretched-link">
+                                    <a href="#/sp/sao-paulo/apartamentos/chacara-santo-antonio/laguna" title="Laguna by Start" class="stretched-link">
 
 
 
@@ -795,7 +795,7 @@
                                         </p>
 
 
-                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Laguna by Plano&amp;Plano</p>
+                                        <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Laguna by Start</p>
                                         <p class="card-enterprise-infos mt-0 mb-2">
                                             <span class="badge font-weight-medium dorms mb-1">1 dorm.</span> <span class="badge font-weight-medium status mb-1 ready-move south">Imóvel Pronto</span>
                                         </p>
@@ -847,7 +847,7 @@
 
 
 
-                            <a href="#/sp/sao-paulo/apartamentos/bairro-do-limao/unni-by-planoplano" title="Unni by Plano&amp;Plano " class="stretched-link">
+                            <a href="#/sp/sao-paulo/apartamentos/bairro-do-limao/unni-by-planoplano" title="Unni by Start " class="stretched-link">
 
 
 
@@ -874,7 +874,7 @@
                                 </p>
 
 
-                                <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Unni by Plano&amp;Plano </p>
+                                <p class="card-enterprise-name text-white text-uppercase font-weight-medium mb-2">Unni by Start </p>
                                 <p class="card-enterprise-infos mt-0 mb-2">
                                     <span class="badge font-weight-medium dorms mb-1">2 e 3 dorms.</span> <span class="badge font-weight-medium status mb-1 release north">Lançamento</span>
                                 </p>
@@ -2137,7 +2137,7 @@
                                             <path fill="#FEBD0F" d="M147.516 0.001h728.965c50.057 0 90.632 41.681 90.632 93.089v817.136h-94.688v45.6c0 37.652-29.718 68.175-66.371 68.175s-66.37-30.525-66.37-68.175v-45.6h-455.112v45.59c0 37.661-29.717 68.185-66.37 68.185s-66.371-30.525-66.371-68.185v-45.59h-94.944v-817.136c0-51.415 40.575-93.089 90.629-93.089zM261.292 113.76c-50.052 0-90.629 41.681-90.629 93.090v248.242h682.665v-248.242c0-51.415-40.575-93.090-90.629-93.090h-501.407zM284.465 701.636c0-31.418-25.47-56.888-56.887-56.888s-56.887 25.47-56.887 56.888c0 31.42 25.47 56.888 56.887 56.888s56.887-25.47 56.887-56.888zM796.466 758.526c31.418 0 56.887-25.47 56.887-56.888s-25.47-56.888-56.887-56.888c-31.42 0-56.888 25.47-56.888 56.888s25.47 56.888 56.888 56.888z"></path>
                                         </svg>
                                     </span>
-                                    <span class="nearby">Na Plano&amp;Plano tem mobilidade!</span>
+                                    <span class="nearby">Na Start tem mobilidade!</span>
                                 </p>
                             </div>
                         </div>

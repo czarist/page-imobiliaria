@@ -31,7 +31,7 @@
                         </div>
                     </div>
                     <div class="col">
-                        <p class="mb-0">São mais de <a href="#" title="Todos os Apês Plano&amp;Plano"> <b class="text-primary">56 apês</b></a> que você pode encontrar.</p>
+                        <p class="mb-0">São mais de <a href="#" title="Todos os Apês Start"> <b class="text-primary">56 apês</b></a> que você pode encontrar.</p>
                     </div>
                 </div>
                 <div class="d-flex mb-3 align-items-center">
@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <div class="col">
-                        <p class="mb-0">E mais de <a href="#" title="Todas as lojas Plano&amp;Plano"><b class="text-primary">24 lojas</b></a> espalhadas por toda São Paulo.</p>
+                        <p class="mb-0">E mais de <a href="#" title="Todas as lojas Start"><b class="text-primary">24 lojas</b></a> espalhadas por toda São Paulo.</p>
                     </div>
                 </div>
                 <a href="#" title="Encontre um Apê" class="d-none d-md-block btn btn-block btn-secondary text-uppercase font-size-md font-weight-semibold mt-5 py-4">Quero encontrar o meu apê</a>

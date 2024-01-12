@@ -33,7 +33,7 @@
 
                         <div id="home-faq-collapse-1" class="collapse" aria-labelledby="home-faq-heading-1" data-parent="#home-faq">
                             <div class="card-body">
-                                <span class="pr-2">•</span> O Minha Casa Minha Vida foi criado pelo Governo Federal para ajudar você e sua família a realizarem o maior sonho de todo brasileiro, que é ter seu próprio apê. Isso significa que você terá uma série de facilidades e um bom prazo para pagar o seu apê. Ou seja, na prática, você terá uma ajuda financeira em forma de desconto no valor do seu apê, a começar por taxas de juros bem baixinhas. Com esse programa, na Plano&amp;Plano, você vai sair do aluguel.
+                                <span class="pr-2">•</span> O Minha Casa Minha Vida foi criado pelo Governo Federal para ajudar você e sua família a realizarem o maior sonho de todo brasileiro, que é ter seu próprio apê. Isso significa que você terá uma série de facilidades e um bom prazo para pagar o seu apê. Ou seja, na prática, você terá uma ajuda financeira em forma de desconto no valor do seu apê, a começar por taxas de juros bem baixinhas. Com esse programa, na Start, você vai sair do aluguel.
                             </div>
                         </div>
                     </div>

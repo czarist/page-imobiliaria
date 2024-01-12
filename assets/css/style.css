@@ -13625,7 +13625,7 @@ label.btn-region {
   top: 5px !important;
 }
 .future-launch .gm-style-iw.gm-style-iw-c button:hover {
-  background-color: #ff0000 !important;
+  background-color: #FEBD0F !important;
 }
 .future-launch p {
   margin: 0;
@@ -15584,7 +15584,7 @@ h2 {
   top: 5px !important;
 }
 .gm-style-iw.gm-style-iw-c button:hover {
-  background-color: #ff0000 !important;
+  background-color: #FEBD0F !important;
 }
 .btn-header {
   color: #fff;
@@ -17271,7 +17271,7 @@ section.section-favorites.show {
   height: 0px;
 }
 .limit-height-plants::-webkit-scrollbar-thumb {
-  background: #ff0000;
+  background: #FEBD0F;
   border: 32px none #ffffff;
   border-radius: 77px;
 }
